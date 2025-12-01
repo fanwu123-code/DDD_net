@@ -1,7 +1,7 @@
 # DDD_net
-#set up
+# set up
 Reference：https://github.com/Chen-Yang-Liu/RSICC
-#Training
+# Training
 train.py
-#test
+# test
 eval.py
