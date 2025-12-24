@@ -1,17 +1,18 @@
 # Dual-Domain Semantic Decoupling with Multi-Scale Feature Interaction for Remote Sensing Image Change Captioning
 <img width="1978" height="694" alt="主干架构5" src="https://github.com/user-attachments/assets/9f720a61-ef85-43b9-9424-7f7547781f2b" />
 
-# set up
+# Set up
  Download the dataset and set up conda env Reference：https://github.com/Chen-Yang-Liu/RSICC
 # Training
 train.py
-# test
+# Test
 eval.py
-# models_checkpoint
+# Models_checkpoint
 BEST_checkpoint_dinov2_vitl14_DualDomainTransformer_trans.pth.tar
 https://pan.baidu.com/s/1im3u6F34KneWMhf5ifoyig?pwd=n5yz code: n5yz
 # experiment results
 <img width="1556" height="801" alt="可视化效果3" src="https://github.com/user-attachments/assets/29122f81-c777-4c0a-b746-277a5adf159b" />
 <img width="1483" height="787" alt="可视化描述" src="https://github.com/user-attachments/assets/749e7bac-bdd4-4c16-a0e4-938abb0cf025" />
-<img width="1155" height="393" alt="image" src="https://github.com/user-attachments/assets/954eeef7-dfe3-4f90-9f78-76b19f6dab2c" />
+<img width="1149" height="396" alt="image" src="https://github.com/user-attachments/assets/009371ab-d48c-48dc-b15f-1fda13d20667" />
+
 
