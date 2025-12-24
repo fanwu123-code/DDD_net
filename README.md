@@ -1,6 +1,7 @@
-# DDD_net
+# Dual-Domain Semantic Decoupling with Multi-Scale Feature Interaction for Remote Sensing Image Change Captioning
+<img width="1978" height="694" alt="主干架构5" src="https://github.com/user-attachments/assets/9f720a61-ef85-43b9-9424-7f7547781f2b" />
 # set up
-Reference：https://github.com/Chen-Yang-Liu/RSICC
+ Download the dataset and set up conda env Reference：https://github.com/Chen-Yang-Liu/RSICC
 # Training
 train.py
 # test
