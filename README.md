@@ -10,7 +10,8 @@ eval.py
 # models_checkpoint
 BEST_checkpoint_dinov2_vitl14_DualDomainTransformer_trans.pth.tar
 https://pan.baidu.com/s/1im3u6F34KneWMhf5ifoyig?pwd=n5yz code: n5yz
-# experiment Results
+# experiment results
 <img width="1556" height="801" alt="可视化效果3" src="https://github.com/user-attachments/assets/29122f81-c777-4c0a-b746-277a5adf159b" />
 <img width="1483" height="787" alt="可视化描述" src="https://github.com/user-attachments/assets/749e7bac-bdd4-4c16-a0e4-938abb0cf025" />
+<img width="1155" height="393" alt="image" src="https://github.com/user-attachments/assets/954eeef7-dfe3-4f90-9f78-76b19f6dab2c" />
 
