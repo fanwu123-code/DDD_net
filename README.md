@@ -2,19 +2,19 @@
 <img width="1978" height="694" alt="主干架构5" src="https://github.com/user-attachments/assets/9f720a61-ef85-43b9-9424-7f7547781f2b" />
 
 # Set up
-conda create -n DDD_Net python=3.9
+conda create -n DDD_Net python=3.9  
 pip install -r requirements.txt
 # Dataset
-[LEVIR_CC](https://github.com/Chen-Yang-Liu/LEVIR-CC-Dataset)
-[Dubai_CC](https://disi.unitn.it/~melgani/datasets.html)
+[LEVIR_CC](https://github.com/Chen-Yang-Liu/LEVIR-CC-Dataset)  
+[Dubai_CC](https://disi.unitn.it/~melgani/datasets.html)  
 The data preprocessing procedure follows the same settings as those adopted in the [RSICCformer](https://github.com/Chen-Yang-Liu/RSICC) project.
 # Training
-The model can be trained using the script below:
-python train.py
+The model can be trained using the script below:  
+python train.py  
 This script handles data loading, preprocessing, model training, and checkpoint saving.
 # Test
-To evaluate the trained model, run:
-eval.py
+To evaluate the trained model, run:  
+eval.py  
 This script loads the trained model and reports the evaluation results on the test dataset.
 # Models_checkpoint
 BEST_checkpoint_dinov2_vitl14_DualDomainTransformer_trans.pth.tar
