@@ -10,11 +10,11 @@ pip install -r requirements.txt
 The data preprocessing procedure follows the same settings as those adopted in the [RSICCformer](https://github.com/Chen-Yang-Liu/RSICC) project.
 # Training
 The model can be trained using the script below:  
-python train.py  
+`python train.py`  
 This script handles data loading, preprocessing, model training, and checkpoint saving.
 # Test
 To evaluate the trained model, run:  
-eval.py  
+`eval.py`  
 This script loads the trained model and reports the evaluation results on the test dataset.
 # Models_checkpoint
 BEST_checkpoint_dinov2_vitl14_DualDomainTransformer_trans.pth.tar
