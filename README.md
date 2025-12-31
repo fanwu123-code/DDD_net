@@ -2,7 +2,7 @@
 <img width="1978" height="694" alt="主干架构5" src="https://github.com/user-attachments/assets/9f720a61-ef85-43b9-9424-7f7547781f2b" />
 
 # Set up
-conda create -n DDD_Net python=3.9  
+conda create -n DDD_Net python=3.10  
 pip install -r requirements.txt
 # Dataset
 [LEVIR_CC](https://github.com/Chen-Yang-Liu/LEVIR-CC-Dataset)  
